@@ -1,0 +1,4 @@
+0	145	180	450	kitchen
+0	500	188	750	bedroom
+188	512	380	750	livingroom
+155	150	375	285	toilet

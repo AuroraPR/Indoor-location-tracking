@@ -1,0 +1,4 @@
+0	375	200	615	kitchen
+25	10	220	320	bedroom
+220	15	515	320	livingroom
+275	495	445	630	toilet
